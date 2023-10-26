@@ -13,7 +13,7 @@ section {width: 300px;
    border: 1px solid black;
    background-color: grey;
    float: left;
-   positioning: relative;}  
+   position: relative;}  
 p {width: 80px;
    height: 10px;
    border: 1px solid black;
