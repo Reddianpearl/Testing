@@ -21,9 +21,11 @@ p {width: 300px;
   
 <body> 
 <h1> Box model </h1>
-<p1 id="#p1"></p1>
-<p2 id="#p2"></p2>
-<p3 id="#p3"></p3>
+<div>
+<p1 id="#p1">item 1</p1>
+<p2 id="#p2">item 2</p2>
+<p3 id="#p3">item 3</p3>
+</div>
  
 </body>
 </html>
