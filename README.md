@@ -12,7 +12,8 @@ body{ backgroundcolor: grey;}
        padding: 10px;
        border: 5px solid black;
        margin: 40px;
-    background-color: blue;}
+    background-color: blue;
+    overflow: auto;}
 p { color: green; } 
 </style>
 </head>
