@@ -12,7 +12,7 @@ For practicing my codes
   border: 2px solid color: green;
   width: 100%;
   color: grey; } 
- p {font-color: blue; }
+ p {color: blue; }
 </style>
 </head>
   
