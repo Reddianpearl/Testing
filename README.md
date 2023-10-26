@@ -7,11 +7,11 @@
 <style>
 h1 {color: blue;}
 body{ backgroundcolor: grey;}
-#box{ background-color: blue;
-       width: 300;
+#box{  width: 300;
        padding: 10px;
        border: 5px solid black;
-       margin: 40px; }
+       margin: 40px;
+    background-color: blue;}
 p { color: green; } 
 </style>
 </head>
