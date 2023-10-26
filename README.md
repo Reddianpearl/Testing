@@ -5,10 +5,9 @@
 <meta charset="utf-8">
 <title> box model </title>
 <style>
-
 h1 {color: blue;}
 body{ backgroundcolor: grey;}
-#box{  width: 100;
+#box{  width: 100px;
        height: 10px;
        padding: 10px;
        border: 5px solid black;
@@ -21,7 +20,7 @@ p { color: green; }
   
 <body> 
 <h1> Box model </h1>
- <div id="box"> <p> This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. <p> This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful.</p>
+ <div id="box"> <p> This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful.</p>
  </div>
 </body>
 </html>
