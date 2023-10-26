@@ -6,12 +6,13 @@ For practicing my codes
 <meta charset="utf-8">
 <title> week 2 assignment </title>
 <style>
-*/ simple responsive framework. */
+*/ simple responsive framework */
  .row { 
   margin: 10px;
   border: 2px solid color: green;
   width: 100%;
   color: grey; } 
+ p {font-color: blue; }
 </style>
 </head>
   
