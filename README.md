@@ -5,13 +5,14 @@
 <meta charset="utf-8">
 <title> box model </title>
 <style>
-*{box-sizing: border-box;}
+*{box-sizing: border-box;
+   margin: 0px;
+   padding: 0px;}
 h1 {color: blue;}
 p {width: 300px;
    height: 50px;
    border: 1px solid black;
-   background-color: grey;} 
-       
+   background-color: grey;}        
 #p1{}
 #p2{}
 #p3{}
@@ -21,9 +22,9 @@ p {width: 300px;
 <body> 
 <h1> Box model </h1>
 <div>
-<p1 id="p1">item 1</p1>
-<p2 id="p2">item 2</p2>
-<p3 id="p3">item 3</p3>
+<p id="p1">item 1</p>
+<p id="p2">item 2</p>
+<p id="p3">item 3</p>
 </div>
  
 </body>
