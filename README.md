@@ -14,18 +14,13 @@ For practicing my codes
   color: grey; } 
 </style>
 </head>
-
-
   
 <body> 
 <h1> Responsive layout assignment </h1>
 <div class= "row" > 
-
 <div class= "col-lg-4 col-md-6 col-sm-12"> <p> Item 1 </p> </div>
 <div class= "col-lg-4 col-md-6 col-sm-12"> <p> Item 2 </p> </div>
 <div class= "col-lg-4 col-md-6 col-sm-12"> <p> Item 3 </p> </div>
 </div>
-
-
 </body>
 </html>
