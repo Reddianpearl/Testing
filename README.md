@@ -12,13 +12,12 @@ section {width: 300px;
    height: 150px;
    border: 1px solid black;
    background-color: grey;
-   font-align: centre;
    float: left;
    position: relative;}  
 p {width: 150px;
    height: 50px;
    border: 1px solid black;
-   font-align: centre;
+   text-align: centre;
    margin: 0px;
    float: left;
    position: absolute;
