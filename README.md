@@ -6,18 +6,20 @@
 <style>
 *{box-sizing: border-box;
    margin: 10px;
-   padding: 0px;}
+   padding: 10px;}
 h1 {color: blue;}
 section {width: 300px;
    height: 150px;
    border: 1px solid black;
    background-color: grey;
+   font-align: centre;
    float: left;
    position: relative;}  
 p {width: 100px;
    height: 30px;
    border: 1px solid black;
    background-color: pink;
+   font-align: centre;
    float: left;
    position: absolute;
    top: 0px;
@@ -33,8 +35,10 @@ p {width: 100px;
 <div> 
 <section>item 1 <p> mini item 1 </p>
 </section>
-<section>item 2</section>
-<section>item 3</section>
+<section>item 2 <p> mini item 2 </p>
+</section>
+<section>item 3 <p> mini item 3 </p>
+</section>
 </div>
  
 </body>
