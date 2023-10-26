@@ -19,7 +19,7 @@ p { color: green; }
   
 <body> 
 <h1> Box model </h1>
- <div id="box"> <p> This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful.</p>
+ <div id="box"> <p> This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful.</p> <p> This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful.</p>
  </div>
 </body>
 </html>
