@@ -1,27 +1,23 @@
-# Testing
-For practicing my codes 
+# Testing 
 <!DOCTYPE HTML>
 <html>
 <head> 
 <meta charset="utf-8">
-<title> week 2 assignment </title>
+<title> box model </title>
 <style>
-*/ simple responsive framework */
- .row { 
-  margin: 10px;
-  border: 2px solid color: green;
-  width: 100%;
-  color: grey; } 
- p {color: blue; }
+body { backgroundcolor: grey;}
+#box { color: blue;
+       width: 300;
+       padding: 10px;
+       border: 5px;
+       margin: 40px; }
+p { color: white; } 
 </style>
 </head>
   
 <body> 
-<h1> Responsive layout assignment </h1>
-<div class= "row" > 
-<div class= "col-lg-4 col-md-6 col-sm-12"> <p> Item 1 </p> </div>
-<div class= "col-lg-4 col-md-6 col-sm-12"> <p> Item 2 </p> </div>
-<div class= "col-lg-4 col-md-6 col-sm-12"> <p> Item 3 </p> </div>
-</div>
+<h1> Box model </h1>
+ <div id="box"> <p> This is a comtent within a box model sample</p>
+ </div>
 </body>
 </html>
