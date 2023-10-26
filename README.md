@@ -5,6 +5,7 @@
 <meta charset="utf-8">
 <title> box model </title>
 <style>
+h1 {color: blue;}
 body{ backgroundcolor: grey;}
 #box{ background-color: blue;
        width: 300;
