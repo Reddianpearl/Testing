@@ -9,7 +9,7 @@
    padding: 0px;}
 h1 {color: blue;}
 p {width: 300px;
-   height: 50px;
+   height: 150px;
    border: 1px solid black;
    background-color: grey;
    float: left;}        
