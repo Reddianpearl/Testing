@@ -12,7 +12,8 @@ h1 {color: blue;}
 p {width: 300px;
    height: 50px;
    border: 1px solid black;
-   background-color: grey;}        
+   background-color: grey;
+   float: left;}        
 #p1{}
 #p2{}
 #p3{}
