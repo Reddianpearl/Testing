@@ -5,13 +5,13 @@
 <meta charset="utf-8">
 <title> box model </title>
 <style>
-body { backgroundcolor: grey;}
-#box { color: blue;
+body{ backgroundcolor: grey;}
+#box{ background-color: blue;
        width: 300;
        padding: 10px;
-       border: 5px;
+       border: 5px solid black;
        margin: 40px; }
-p { color: white; } 
+p { color: green; } 
 </style>
 </head>
   
