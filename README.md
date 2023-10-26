@@ -14,8 +14,8 @@ section {width: 300px;
    background-color: grey;
    float: left;
    position: relative;}  
-p {width: 80px;
-   height: 10px;
+p {width: 100px;
+   height: 30px;
    border: 1px solid black;
    background-color: pink;
    float: left;
