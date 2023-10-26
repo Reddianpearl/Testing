@@ -12,7 +12,6 @@ section {width: 300px;
    height: 150px;
    border: 1px solid black;
    background-color: grey;
-   float: left;
    position: relative;}  
 p {width: 150px;
    height: 50px;
