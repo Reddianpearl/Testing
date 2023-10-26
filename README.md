@@ -5,22 +5,25 @@
 <meta charset="utf-8">
 <title> box model </title>
 <style>
+*{box-sizing: border-box;}
 h1 {color: blue;}
-body{ backgroundcolor: grey;}
-#box{  width: 100px;
-       height: 10px;
-       padding: 10px;
-       border: 5px solid black;
-       margin: 40px;
-    background-color: blue;
-    overflow: auto;}
-p { color: green; } 
+p {width: 300px;
+   height: 50px;
+   border: 1px solid black;
+   background-color: grey;
+   float: left;} 
+       
+#p1{}
+#p2{}
+#p3{}
 </style>
 </head>
   
 <body> 
 <h1> Box model </h1>
- <div id="box"> <p> This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful. This is a content within a box model sample. i trust that Allah will make me successful in this new field i have decided to embark on, i will give it my best and push to emerge successful.</p>
- </div>
+<p1 id="#p1"></p1>
+<p2 id="#p2"></p2>
+<p3 id="#p3"></p3>
+ 
 </body>
 </html>
