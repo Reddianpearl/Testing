@@ -19,6 +19,7 @@ p {width: 150px;
    height: 50px;
    border: 1px solid black;
    font-align: centre;
+   margin: 0px;
    float: left;
    position: absolute;
    top: 0px;
