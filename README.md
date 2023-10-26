@@ -18,7 +18,7 @@ For practicing my codes
 
   
 <body> 
-<h1> Responsive layout assignment </h1></h1>
+<h1> Responsive layout assignment </h1>
 <div class= "row" > 
 
 <div class= "col-lg-4 col-md-6 col-sm-12"> <p> Item 1 </p> </div>
