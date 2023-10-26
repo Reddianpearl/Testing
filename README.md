@@ -15,29 +15,28 @@ section {width: 300px;
    font-align: centre;
    float: left;
    position: relative;}  
-p {width: 100px;
-   height: 30px;
+p {width: 150px;
+   height: 50px;
    border: 1px solid black;
-   background-color: pink;
    font-align: centre;
    float: left;
    position: absolute;
    top: 0px;
    right: 0px;}        
-#p1{}
-#p2{}
-#p3{}
+#p1{background-color: pink;}
+#p2{background-color: green;}
+#p3{background-color: yellow;}
 </style>
 </head>
   
 <body> 
 <h1> Box model </h1>
 <div> 
-<section>item 1 <p> mini item 1 </p>
+<section>item 1 <p id="p1"> mini item 1 </p>
 </section>
-<section>item 2 <p> mini item 2 </p>
+<section>item 2 <p id="p2"> mini item 2 </p>
 </section>
-<section>item 3 <p> mini item 3 </p>
+<section>item 3 <p id="p3"> mini item 3 </p>
 </section>
 </div>
  
