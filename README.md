@@ -11,6 +11,7 @@ h1 {color: blue;}
 section {width:80%;
    height: 150px;
    border: 1px solid black;
+   text-align: centre;
    background-color: grey;
    position: relative;}  
 p {width: 150px;
