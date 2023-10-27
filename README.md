@@ -5,12 +5,12 @@
 <title> box model </title>
 <style>
 *{box-sizing: border-box;
-   margin: 10px;
-   padding: 10px;}
+   margin: 10px;}
 h1 {color: blue;}
 section {width:80%;
    height: 150px;
    border: 1px solid black;
+   padding:30px;
    text-align: centre;
    background-color: grey;
    position: relative;}  
@@ -23,9 +23,12 @@ p {width: 150px;
    position: absolute;
    top: 0px;
    right: 0px;}        
-#p1{background-color: pink;}
-#p2{background-color: green;}
-#p3{background-color: yellow;}
+#p1{background-color: pink;
+    padding:5px;}
+#p2{background-color: green;
+    padding:5px;}
+#p3{background-color: yellow;
+    padding:5px;}
 /********** responsive media-queries **********/
 .row {width: 100%;} 
 /** for large devices **/
