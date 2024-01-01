@@ -3,7 +3,7 @@
 <head> 
 <meta charset="utf-8">
 <title> box model</title>
-<link rel="style sheet" href= "test.css"  
+<link rel="style sheet" href= "Test.css"> 
 
 </head>
   
